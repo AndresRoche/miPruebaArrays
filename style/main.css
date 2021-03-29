@@ -1,0 +1,60 @@
+
+body {
+	font-family: monospace;
+}
+
+red {
+	color: red;
+	font-weight: bold;
+}
+
+green {
+	color: green;
+	font-weight: bold;
+}
+
+blue {
+	color: blue;
+
+}
+
+.btn {
+	text-decoration: none;
+	padding: 10px 20px;
+	color: white;
+	background-color: coral;
+	border: none;
+}
+
+
+
+.contenedor{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 40px;
+}
+h3 {
+	font-size: 30px;
+}
+h4 {
+	font-size: 20px;
+}
+p, b{
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+	
+}
+
+p{
+	padding-left: 20px;
+}
+
